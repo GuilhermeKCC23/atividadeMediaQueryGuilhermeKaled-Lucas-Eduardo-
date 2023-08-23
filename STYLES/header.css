@@ -13,12 +13,10 @@
     display:none;
     }
 
-@media screen and (min-width: 820px) {
-        /*propriedades css...*/
-    } 
+
 @media screen and (min-width: 820px) {
         .container__titulo, .container__titulo--negrito
-        font-size: 30px;
+            font-size: 30px;
     } 
     
     .container__titulo {
